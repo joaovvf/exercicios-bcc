@@ -8,10 +8,13 @@ Exercícios realizados durante as aulas de Base Computacionais da Ciência na Un
 
 Apresentação da disciplina e introdução ao Python, Bases de Dados, Gráficos, Estatística, Correlação e Regressão, Condicionais em Programação, Laços em Programação e Modelagem e Simulação.
 
-## Linguagens utilizadas
+## Linguagens 
 
 Python
 
+## Bibliotecas utilizadas
+
+Pandas, matplotlib.pyplot e numpy
 
 ## Autores
 
